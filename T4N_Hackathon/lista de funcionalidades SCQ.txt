@@ -1,0 +1,32 @@
+Lista de Funcionalidades:
+
+
+APP do Inspetor de Qualidade:
+- Login
+- Exibe os produtos;
+- Permitir adição de comentários aos produtos;
+- Permite rotular a ordem/produto em: Concluído, Pendente, Defeituoso e Crítico;
+- Filtrar pelos rótulos;
+- Histórico de produtos concluídos  são apagados após três dias;
+- Chat com a Administração;
+
+App do ADM:
+
+- Exibe os produtos;
+- Login
+- Permitir adição de comentários aos produtos;
+- Permite rotular a ordem/produto em: Concluído, Pendente, Defeituoso e Crítico;
+- Filtrar pelos rótulos;
+- Histórico de produtos concluídos não são apagados;
+- Chat com qualquer usuário do app;
+- Gera tarefas a serem resolvidas a partir dos rótulos críticos;
+- Encaminhar a tarefa para o resolvedor;
+
+
+App do Controle de Qualidade:
+- Login
+- Exibe os produtos;
+- Permitir adição de comentários aos produtos;
+- Permite rotular a ordem/produto em: Concluído, Pendente, Defeituoso e Crítico;
+- Histórico de produtos concluídos  são apagados após três dias;
+- Chat com a Administração;
